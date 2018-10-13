@@ -1,4 +1,4 @@
-## Flashcard
+## Flashcards
 
 ### App Description
 The app is a simple Flashcard application where there is a question and user can tap the card to see the answer.
