@@ -1,14 +1,12 @@
-## Flashcard/;;s
+## Flashcard
 
 ### App Description
 The app is a simple Flashcard application where there is a question and user can tap the card to see the answer.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="http://g.recordit.co/5J58tR2nx9.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+
 
 ## Required
 - [x] Create New Project in Xcode
