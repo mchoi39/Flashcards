@@ -28,7 +28,16 @@ class ViewController: UIViewController {
     @IBAction func didTapOnFlashcard(_ sender: Any) {
         frontlabel.isHidden = true
     }
+    func updateFlashcard(question: String, answer: String) {
+        frontlabel.text = question
+        backlabel.text = answer
     
-    
+    }
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?){
+        let navigationController = segue.destination as! UINavigationController
+        let creationController = navigationController.topViewController as! CreationViewController
+        
+        creationController.flashcardsController = self
+    }
 }
 
