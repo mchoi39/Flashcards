@@ -7,7 +7,7 @@ User can make flashcards and keep them even when app is closed. User can also br
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/vriOWY9" width=200><br>
 
 
 
