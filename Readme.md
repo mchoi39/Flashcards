@@ -7,7 +7,7 @@ App is better looking and has transition features
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/a/BOGfBlc" width=200><br>
 
 
 ## Required
